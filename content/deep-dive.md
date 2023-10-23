@@ -1,34 +1,47 @@
 +++
-title = "Deep Dive"
+title = "deep dive"
 date = 2023-02-23
 
 [taxonomies]
 tags = ["maths", "notes", "projects"]
 +++
 
-Since 2020 I began a journey latexifying all my studies in mathematics. In this
-process I'm able to engage more with the development of proofs and arguing about
-certain statements. Thinking that my notes may enlighten another soul seeking
-for mathematical knowledge, I decided to turn *Deep Dive* public.
+Since 2020, I embarked on a journey to write all my studies in mathematics
+through LaTeX.
+This process has enabled me to dive deeper into the development of proofs and
+engage in insightful discussions about a diverse range of mathematical
+constructions.
+With the hope of illuminating the path for fellow seekers of mathematical
+knowledge, I decided to share my collection of notes publicly.
 
 <!-- more -->
 
-Yes, *Deep Dive* is the name I've poetically given to this set of always-growing
-personal notes, it represents a continuous and endless investigation of
-mathematics. By the fact that this document is only a draft and furthermore a
-collection of *personal* notes for my own sake and pleasure, I can only
-guarantee the reader that there certainly exists an extensive list of linguistic
-and mathematical errors spread throughout the whole document. However, *when time
-seems fit* I plan to revise this work and rewrite various old sections and,
-through this process, probably catch most of the silly errors.
+_Deep Dive_ is the evocative title I've chosen for this ever-evolving collection
+of personal notes.
+It represents a continuous and endless exploration of the realm of mathematics.
+To that end, I claim absolutely _no_ originality in any of my writings,
+instead they can be thought as a compilation of books and papers I've read,
+written on my own words.
 
-The first propulsor of this journey was a draft of [Dongryul
-Kim](https://web.stanford.edu/~dkim04/) named *[A rough guide to linear
-algebra](https://web.stanford.edu/~dkim04/blog/linear-algebra-book/)*, which aims
-to give a sophisticated introduction to linear algebra utilising the language of
-*category theory* extensively. My interaction with this draft settled my path to
-the world of *abstraction* in mathematics, and for that I'm much thankful.
+It must be stressed that this document is an endless work in progress and will
+never be finished.
+It primarily serves as a repository of personal notes created for my own
+benefit and enjoyment.
+Therefore, I must acknowledge the presence of numerous linguistic and
+mathematical errors scattered throughout this document.
+However, as time permits, I plan to revise and refine this work in some distant
+future.
+In doing so, I hope to rectify most of the silly mistakes and errors.
 
-The [source](https://github.com/luizmugnaini/deep-dive) of *Deep Dive* can be
-found in my github, and the (possibily out of date) compiled document can be
-found [here](/deep-dive.pdf).
+The first propulsor of this journey was a draft of [Dongryul Kim](https://web.stanford.edu/~dkim04/)
+titled [_A rough guide to linear algebra_](https://web.stanford.edu/~dkim04/blog/linear-algebra-book/),
+which aims to give a sophisticated introduction to linear algebra; making
+extensive use of the language of _category theory_.
+My interaction with this draft settled my path to the world of _abstraction_
+in mathematics, and for that I'm profoundly grateful.
+
+The source of _Deep Dive_ is available on my GitHub at
+[luizmugnaini/deep-dive](https://github.com/luizmugnaini/deep-dive).
+Additionally, a compiled version of the document can be
+found [here](/deep-dive.pdf). Please note that this document may frequently be
+out of date.
