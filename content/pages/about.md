@@ -7,15 +7,20 @@ path = "about"
 Hello there! I'm Luiz, a Brazilian programmer and an undergraduate student in
 [_Molecular Sciences_](http://www.cecm.usp.br/) at the University of Sao Paulo (USP).
 
-My interests are very diverse, but I'm particularly passionate about
-_mathematics_, _computer graphics_ and _game development_.
-I enjoy working with languages such as Rust, Python, and more recently, C++.
+My academic CV can be found [here](/cv.pdf).
 
-Previously, I delved into the abstract realm of pure mathematics.
-More specifically, together with my advisor [Ivan Struchiner](https://www.ime.usp.br/~ivanstru),
-we studied [_abstract homotopy theory_](https://ncatlab.org/nlab/show/homotopy+theory)
-via [_model categories_](https://ncatlab.org/nlab/show/model+category).
-My CV can be found [here](/cv-luizmug.pdf).
+My interests are very diverse, but I'm particularly passionate about
+_mathematics_, _computer graphics_ and _game development_. I mostly program in
+C, C++, Rust and a tiny bit of Python for some scripting.
+
+I'm currently researching _discrete differential geometry_ and its applications
+to computer graphics, together with my supervisor [Sinai Robins](https://sites.google.com/site/sinairobins).
+
+Previously, under the supervision of [Ivan Struchiner](https://www.ime.usp.br/~ivanstru),
+I've studied [_abstract homotopy theory_](https://ncatlab.org/nlab/show/homotopy+theory)
+via [_model categories_](https://ncatlab.org/nlab/show/model+category), simplicial sets,
+and the more recent advances in [dendroidal homotopy theory](https://link.springer.com/book/10.1007/978-3-031-10447-3).
+
 
 My life has always been revolved by _art_ and _music_.
 I'm constantly in the lookout for new artists and genres to explore.

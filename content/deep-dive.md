@@ -1,5 +1,5 @@
 +++
-title = "deep dive"
+title = "deep-dive"
 date = 2023-02-23
 
 [taxonomies]
@@ -13,6 +13,14 @@ engage in insightful discussions about a diverse range of mathematical
 constructions.
 With the hope of illuminating the path for fellow seekers of mathematical
 knowledge, I decided to share my collection of notes publicly.
+
+{{ figure(
+    src="/img/deep-dive/van-kampen.png",
+    alt="Commutative diagram for the Van-Kampen theorem",
+    position="center",
+    caption="Commutative diagram for the Van-Kampen theorem",
+    caption_style="font-weight: bold; font-style: italic;"
+)}}
 
 <!-- more -->
 

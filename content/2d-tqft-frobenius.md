@@ -11,6 +11,15 @@ I explored the categorical equivalence between 2-dimensional topological
 quantum field theories (TQFT) and the category of commutative Frobenius algebras.
 This led to an interesting study paper, which I'm now making publicly accessible.
 
+{{ figure(
+    src="/img/tqft/monoidal-natural-transformation.png",
+    alt="Monoidal natural transformation",
+    position="center",
+    caption="Universal property of monoidal natural transformations",
+    caption_style="font-weight: bold; font-style: italic;"
+)}}
+
+
 <!-- more -->
 
 The paper is divided into 9 sections:
