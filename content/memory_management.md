@@ -10,7 +10,7 @@ In this post, I'll be detailing how C and C++ can be programmed in a sane and me
 be going through some custom memory allocator strategies that provide simple ways of dissolving
 common memory problems.
 
-This post is inspired by my C++ core library called [Presheaf](https://github.com/luizmugnaini/presheaf),
+This post is inspired by my C++ core library called [Presheaf](https://git.sr.ht/~presheaf/presheaf),
 whose source code is freely available. The main goal of the library is to deliver the programming
 experience I wanted and C wasn't able to fully deliver.
 
@@ -40,7 +40,7 @@ read request to be checked if ID's match, etc.
 
 In my personal case I don't really need all of this hand-holding and training-wheels. All I need is
 a performant system that can be easily managed, and ensures some level of memory safety. The
-[Presheaf library](https://github.com/luizmugnaini/presheaf) leans into this very philosophy -
+[Presheaf library](https://git.sr.ht/~presheaf/presheaf) leans into this very philosophy -
 obvious protocols exist between caller and callee, if the caller wants to break one of the these
 protocol assumptions, the callee won't try to stop the caller fearing stupidity of the programmer.
 In summary, the programmer is always treated as an intelligent being that knows what they are doing.
@@ -414,7 +414,7 @@ Most of the time, all that you need is an arena. You can also combine the use of
 stack allocator for more intricate memory arrangements.
 
 If you wish to see the actual implementation of these allocators in the Presheaf library, please
-refer to the [source code](https://github.com/luizmugnaini/presheaf). The code written in this post
+refer to the [source code](https://git.sr.ht/~presheaf/presheaf). The code written in this post
 has a very C-like touch, which was intentional with the purpose of offloading any complexities and
 making it very easy to port the code to C.
 
