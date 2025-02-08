@@ -76,7 +76,7 @@ struct Foo {
 ```
 
 From the point of view of the compiler, the actual memory layout of `Foo` has to make sure that the
-alignment of each struct member of is valid. Thus in reality, the arrangement of bytes composing
+alignment of each struct member is valid. Thus in reality, the arrangement of bytes composing
 `Foo` is laid as follows:
 
 ```cpp
