@@ -158,7 +158,7 @@ in reality this is simply the way computers where designed to be used - we don't
 for that, it's merely non-pessimised programming if you think about it.
 
 Many of the made-up problems created by modern software practices are completely dissolved when you
-design your program with memory arenas in mind instead of thinking about the program in the
+design your program with memory arenas in mind instead of thinking about the program at the
 object-level. For instance, ownership and lifetime problems are almost a non-issue and an easy to
 solve problem.
 
